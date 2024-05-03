@@ -19,6 +19,6 @@ conda activate PINN
 ```
 
 ```
-jupyter lab
+jupyter lab PINN_NS.ipynb
 ```
 
