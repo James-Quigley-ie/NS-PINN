@@ -1,8 +1,5 @@
 ## NS-PINN setup tutorial
 
-
-
-## Windows repo and conda envoirment install
 Open your anaconda promt as admin and navigate to the folder you want the repo to be downloaded to.
 Enter the following commands in order
 ```javascript
