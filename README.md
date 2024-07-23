@@ -21,4 +21,5 @@ conda activate PINN
 ```
 jupyter lab
 ```
+![PINN_0_deg_trained_angle](https://github.com/user-attachments/assets/1623372a-68df-49dd-b30e-b56a5addf7a0)
 
