@@ -17,9 +17,10 @@ conda env create -f PINN.yml
 ```
 conda activate PINN
 ```
-
 ```
-jupyter lab
+jupyter lab PINN.ipynb
 ```
+## Physics Informed Nueral Network Model Performance
 ![PINN_0_deg_trained_angle](https://github.com/user-attachments/assets/1623372a-68df-49dd-b30e-b56a5addf7a0)
+![PINN_Mag_diff_angle_0](https://github.com/user-attachments/assets/73532f19-1a4f-4fd9-b220-ea82933d7809)
 
